@@ -370,6 +370,7 @@ h1 {
     display: flex;
     justify-content: center; /* Выравнивание по горизонтали по центру */
     gap: 20px; /* Расстояние между картинками */
+    margin-right: 40px;
 }
 
 .projects_image_with_text {
